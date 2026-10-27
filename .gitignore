@@ -1,0 +1,14 @@
+.dotnet-cli/
+.vs/
+**/bin/
+**/obj/
+**/publish/
+
+# Environment files and local secrets
+.env*
+secrets/
+**/secrets/
+*.pfx
+*.p12
+*.pem
+*.key
